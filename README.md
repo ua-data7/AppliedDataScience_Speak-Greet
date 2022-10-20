@@ -5,4 +5,5 @@ The UA Applied Data Science Speak & Greet series is an event promoted by the Dat
 
 ### Fall 2022
 * [Enrique Noriega](https://github.com/ua-data7/AppliedDataScience_Speak-Greet/blob/main/ADS_S%26G_EnriqueNoriega_DSI_presentation-09-21-2022.pdf)
-* [Jason Pacheco]()
+* [Jason Pacheco](https://github.com/ua-data7/AppliedDataScience_Speak-Greet/blob/main/ADS_S%26G_JasonPacheco_DSI_presentation-10-19-2022.pdf)
+* 
